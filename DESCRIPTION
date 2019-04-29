@@ -1,0 +1,15 @@
+Package: hydroRMS
+Type: Package
+Title: Functions to assist in hydrologic analysis
+Version: 0.1
+Author: Ryan Shojinaga
+Maintainer: Ryan Shojinaga <shojinaga.ryan@deq.state.or.us>
+Description: This package containts a suite of functions designed to aid in processing and analyzing hydrologic information.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: lubridate
+RoxygenNote: 6.1.1.9000
+NeedsCompilation: no
+Packaged: 2019-04-29 09:00:00 UTC; rshojin
+Standardizable: TRUE
